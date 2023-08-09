@@ -2,7 +2,7 @@ import React from 'react'
 import Description from './components/Description'
 import Demo from './components/Demo'
 
-import './App.css'
+import './app.css'
 const App = () => {
   return (
     <main className=''>
