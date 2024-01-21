@@ -7,7 +7,7 @@ const Description = () => {
             <img src={logo} alt='proj-logo' className='w-28 pt-6 object-contain ease-in-out duration-300 hover:scale-110 pb-6'/><br/><br/>
             
             <button type='button' className='black_btn'  onClick={()=>{
-                window.open('https://github.com/Raziel-gh')
+                window.open('https://github.com/RohithKarthick')
             }}>Source</button>
         </nav>
         <h1 className='red_gradient head_text'>Welcome to the summarizer!</h1>
